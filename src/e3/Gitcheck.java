@@ -5,6 +5,6 @@ public class Gitcheck {
 	
 	//trying github 
 	
-	int a =67;
+	int asssssssss =67;
 
 }
